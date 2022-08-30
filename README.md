@@ -5,14 +5,10 @@ We analyse and security test the system architecture surrounding the blockchain 
 we focus on the implementations and system integrations. It’s about thinking like the “bad guy”, to prevent them from pickpocketing and exploiting the architecture
 and misconfigurations.
 
-We aspire to help your company reach its maximum security potential. Danish Blockchain Lab is your
-one-stop solution for blockchain security analysis, blockchain development, and secure integration. We
-have developed a methodology unlike any others, which is why we've won two awards from EU Business
-News as "Emerging Cyber Security Firm of the Year 2022" and "Innovation Award for Blockchain Security
-Analysis 2022". We believe that unity between academic research and consultants with years of practical
-experience is the way of succeeding in a rapidly moving digital world.
+We aspire to help your company reach its maximum security potential. Danish Blockchain Lab is your one-stop solution for blockchain security analysis, blockchain development, and secure integration. We have developed a methodology unlike any others, which is why we've won two awards from EU Business News as "Emerging Cyber Security Firm of the Year 2022" and "Innovation Award for Blockchain Security Analysis 2022". We believe that unity between academic research and consultants with years of practical experience is the way of succeeding in a rapidly moving digital world.
 
 Our team consists of the trinity between:
+
 • Highly qualified reverse engineers
 • Cryptographic researcher from the highest-ranking universities.
 • World-leading architects.
